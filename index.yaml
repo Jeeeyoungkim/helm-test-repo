@@ -1,0 +1,11 @@
+apiVersion: v1
+entries:
+  myapp:
+  - apiVersion: v2
+    created: "2024-02-02T02:46:49.789458049Z"
+    digest: cbc113271fe7e101b467d29110a3f626b6497db122408cc0f337f50df1308e4c
+    name: myapp
+    urls:
+    - https://Jeeeyoungkim.github.io/helm-test-repo/myapp-1.0.0.tgz
+    version: 1.0.0
+generated: "2024-02-02T02:46:49.789142365Z"
